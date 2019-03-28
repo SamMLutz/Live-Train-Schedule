@@ -1,0 +1,17 @@
+.jumbotron {
+    text-align: center;
+    background-color:lightblue;
+}
+
+.card-header {
+    background-color:lightblue;
+}
+
+.card {
+    margin-bottom: 10px;
+    border: 1px solid lightblue;
+}
+
+#add-train {
+    background-color: lightblue
+}
